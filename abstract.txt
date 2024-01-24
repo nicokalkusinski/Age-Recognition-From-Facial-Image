@@ -1,0 +1,8 @@
+Age estimation from facial images has gained significant attention due to its numerous applications in security, 
+surveillance, and human-computer interaction. As technology progresses,
+it gains the ability to do things that only people could do just years before. 
+When will a computer’s ability to predict pass the average person’s for complex tasks, 
+like guessing someone’s age? We will build an application that uses a model for age recognition built from deep learning. 
+The main purpose of this project is to see how accurate that model can be.
+The average person has an error rate of eight years when guessing a random person’s age according to Colin et al. 
+Will our model be able to surpass that rate?
